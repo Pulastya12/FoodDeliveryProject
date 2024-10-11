@@ -28,6 +28,7 @@ return !resInfo ? (
              <h3>{resInfo.cards[2].card.card.info.name}</h3>
                 <p>{resInfo.cards[2].card.card.info.cuisines.join(",")}</p>
                 <p>{resInfo.cards[2].card.card.info.costForTwoMessage}</p>
+                <h1>test</h1>
             </>
         )}
     </div>
